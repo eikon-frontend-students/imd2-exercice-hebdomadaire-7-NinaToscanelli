@@ -119,3 +119,12 @@
   line-height: 40px; /* 250% */
   width: 336px;
 }
+
+.login-input:hover {
+  border: 1px solid #000;
+  background: #eee;
+}
+
+.login-submit:hover {
+  background: #0b0b0b;
+}
